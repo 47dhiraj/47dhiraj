@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @47dhiraj
-- 👀 I’m interested in Data Science, ML & Web Development.
+- 👀 I’m interested in Data Analysis and the Science behind it.
 - 🌱 I’m currently learning Data Science.
 - 📫 How to reach me: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/  https://www.facebook.com/dhirajkafle553
 
