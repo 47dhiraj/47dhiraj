@@ -10,6 +10,7 @@
    <img alt="Excel" src="https://img.shields.io/badge/excel-FFFFFF?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" />
    <img alt="Django" src="https://img.shields.io/badge/django-%23FFFFFF.svg?&style=for-the-badge&logo=django&logoColor=darkgreen" />
    <img alt="FastAPI" src="https://img.shields.io/badge/fast api-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" />
+   <img alt="Docker" src="https://img.shields.io/badge/docker-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
    
 </h3>
 
