@@ -2,7 +2,7 @@
 
 
 <h1>
-   <img alt="Git" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
+   <img alt="Git" height="30" width="30" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
    <img alt="MySQL" src="https://img.shields.io/badge/SQL-FFFFFF?logo=mysql&logoColor=0074a3&style=for-the-badge" />
    <img alt="Python" src="https://img.shields.io/badge/python-%23FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=blue" />
    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23FFFFFF.svg?&style=for-the-badge&logo=pandas&logoColor=darkblue" />
