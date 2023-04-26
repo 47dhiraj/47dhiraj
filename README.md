@@ -1,4 +1,4 @@
-- 👋 Hi there ! I’m Dhiraj Kafle - aka [DK][website]
+- 👋 Hi there ! I’m Dhiraj Kafle - aka [DK][website]!
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=orange"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?logo=mysql&logoColor=orange&style=for-the-badge"/>
