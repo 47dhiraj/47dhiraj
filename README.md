@@ -12,14 +12,10 @@
 👀 I’m passionated to analyse the data & understands the science behind it </br>
 🌱 I’m currently learning Data Analysis </br>
 
-📫 Connect with me: 
-[<img align="left" alt="mukulmantosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### 📫 Connect with me:
+[<img align="left" alt="dhirajkafle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-
-### Connect with me:
-
-[<img align="left" alt="mukulmantosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mukulmantosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 
 
 [website]: https://www.dhirajk.com.np
