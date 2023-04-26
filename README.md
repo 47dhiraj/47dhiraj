@@ -12,16 +12,10 @@
 - 📫 Can reach me 👉 https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 
 
+[website]: https://www.dhirajk.com.np
+[linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 
-
-
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 
 <!---
    ✨ It's about me ✨ 
 --->
-
-
-[website]: https://www.dhirajk.com.np
-[linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
