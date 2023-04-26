@@ -11,7 +11,10 @@
 
 👀 I’m passionated to analyse the data & understands the science behind it </br>
 🌱 I’m currently learning Data Analysis </br>
-📫 Can reach me 👉 https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/ </br>
+
+### 📫 Connect with me 👉:
+[<img align="left" alt="mukulmantosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
+
 
 
 [website]: https://www.dhirajk.com.np
