@@ -20,11 +20,7 @@
 
 ### Connect with me
 <p align="center">
-   
-   <a align="center" href="https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="dhirajkafle" height="40" width="40" />
-   </a>
-   
-   [<img align="left" alt="dhirajkafle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
+   [<img align="center" alt="dhirajkafle | LinkedIn" target="blank" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]<br />
 </p>
 
 <br>
