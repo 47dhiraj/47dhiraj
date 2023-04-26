@@ -1,4 +1,4 @@
-- 👋 Hi there ! I’m Dhiraj Kafle - aka [DK][website]!
+👋 Hi there ! I’m Dhiraj Kafle - aka [DK][website]!
 
 <h3>
    <img alt="Git" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=orange" />
@@ -9,9 +9,9 @@
    <img alt="Tableau" src="https://img.shields.io/badge/tableau-%23FFFFFF.svg?&style=for-the-badge&logo=tableau&logoColor=blue" />
 </h3>
 
-- 👀 I’m passionated to analyse the data & understands the science behind it
-- 🌱 I’m currently learning Data Analysis
-- 📫 Can reach me 👉 https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
+👀 I’m passionated to analyse the data & understands the science behind it
+🌱 I’m currently learning Data Analysis
+📫 Can reach me 👉 https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 
 
 [website]: https://www.dhirajk.com.np
