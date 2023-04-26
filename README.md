@@ -7,7 +7,7 @@
    <img alt="R" src="https://img.shields.io/badge/r-%23FFFFFF.svg?&style=for-the-badge&logo=r&logoColor=blue" />
    <img alt="Django" src="https://img.shields.io/badge/django-%23FFFFFF.svg?&style=for-the-badge&logo=django&logoColor=darkgreen" />
    <img alt="Tableau" src="https://img.shields.io/badge/tableau-%23FFFFFF.svg?&style=for-the-badge&logo=tableau&logoColor=blue" />
-   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-FFFFFF?style=for-the-badge&logo=EXCEL&logoColor=darkgreen" />
+   <img alt="Excel" src="https://img.shields.io/badge/Excel-FFFFFF?style=for-the-badge&logo=Microsoft_Excel&logoColor=darkgreen" />
    
 </h3>
 
