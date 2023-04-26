@@ -13,7 +13,7 @@
    <img alt="FastAPI" src="https://img.shields.io/badge/fast api-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" />
    <img alt="Docker" src="https://img.shields.io/badge/docker-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
    
-</h3\2>
+</h2>
 
 👀 I’m passionated to analyse the data & understands the science behind it </br>
 🌱 I’m currently learning Data Analysis </br>
