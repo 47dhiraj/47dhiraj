@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> Hi there,  I’m Dhiraj Kafle - aka [DK][website]
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" > Hi there,  I’m Dhiraj Kafle - aka [DK][website]
 
 
 <h3>
