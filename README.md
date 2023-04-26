@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there,  I’m <b>Dhiraj Kafle,</b> - aka [Dhiraj][website]
 
 
-<h1>
+<p>
    <img alt="Git" height="40" width="40" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
    <img alt="MySQL" src="https://img.shields.io/badge/SQL-FFFFFF?logo=mysql&logoColor=0074a3&style=for-the-badge" />
    <img alt="Python" src="https://img.shields.io/badge/python-%23FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=blue" />
@@ -13,7 +13,7 @@
    <img alt="FastAPI" src="https://img.shields.io/badge/fast api-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" />
    <img alt="Docker" src="https://img.shields.io/badge/docker-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
    
-</h1>
+</p>
 
 👀 I’m passionated to analyse the data & understands the science behind it </br>
 🌱 I’m currently learning Data Analysis </br>
