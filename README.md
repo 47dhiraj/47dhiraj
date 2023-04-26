@@ -1,6 +1,6 @@
 - 👋 Hi there ! I’m Dhiraj Kafle - aka [DK][website]!
 
-![Git]<img alt="Git" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=orange"/>
+ <img alt="Git" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=orange"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?logo=mysql&logoColor=orange&style=for-the-badge"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%23FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=blue"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23FFFFFF.svg?&style=for-the-badge&logo=r&logoColor=blue"/>
