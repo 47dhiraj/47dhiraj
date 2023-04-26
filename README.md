@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there,  I’m Dhiraj Kafle - aka [DK][website]
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there,  I’m Dhiraj Kafle - aka [DK][website]</h2>
 
 <h3>
    <img alt="Git" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=orange" />
