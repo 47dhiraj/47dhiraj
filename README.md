@@ -20,7 +20,10 @@
 
 ### Connect with me
 <p align="center">
-   [<img  alt="dhirajkafle" target="blank" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
+
+<a align="center" href="https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="dhirajkafle" height="40" width="40" />
+</a>
+
 </p>
 
 <br>
