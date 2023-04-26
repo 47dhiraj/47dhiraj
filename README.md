@@ -4,7 +4,7 @@
 <h3>
    <img alt="Git" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=orange" />
    <img alt="MySQL" src="https://img.shields.io/badge/SQL-FFFFFF?logo=mysql&logoColor=orange&style=for-the-badge" />
-   <img alt="Python" src="https://img.shields.io/badge/python-%23FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=blue" />
+   <img alt="Python" src="https://img.shields.io/badge/python-%23FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=ffdd54" />
    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23FFFFFF.svg?&style=for-the-badge&logo=pandas&logoColor=darkblue" />
    <img alt="R" src="https://img.shields.io/badge/r-%23FFFFFF.svg?&style=for-the-badge&logo=r&logoColor=blue" />
    <img alt="Tableau" src="https://img.shields.io/badge/tableau-%23FFFFFF.svg?&style=for-the-badge&logo=tableau&logoColor=blue" />
