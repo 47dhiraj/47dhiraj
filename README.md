@@ -9,9 +9,9 @@
    <img alt="Tableau" src="https://img.shields.io/badge/tableau-%23FFFFFF.svg?&style=for-the-badge&logo=tableau&logoColor=blue" />
 </h3>
 
-👀 I’m passionated to analyse the data & understands the science behind it
-🌱 I’m currently learning Data Analysis
-📫 Can reach me 👉 https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
+👀 I’m passionated to analyse the data & understands the science behind it </br>
+🌱 I’m currently learning Data Analysis </br>
+📫 Can reach me 👉 https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/ </br>
 
 
 [website]: https://www.dhirajk.com.np
