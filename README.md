@@ -6,6 +6,7 @@
    <img alt="MySQL" height="40" width="112" src="https://img.shields.io/badge/SQL%20-%23FFFFFF.svg?logo=mysql&logoColor=0074a3&style=for-the-badge" />
    <img alt="Python" height="40" width="112" src="https://img.shields.io/badge/python-%23FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=blue" />
    <img alt="Pandas" height="40" width="112" src="https://img.shields.io/badge/pandas-%23FFFFFF.svg?&style=for-the-badge&logo=pandas&logoColor=darkblue" />
+   <img alt="Scikit" height="40" width="112" src="https://img.shields.io/badge/sci-kit%20-%23FFFFFF.svg?&style=for-the-badge&logo=sci-kit&logoColor=orange" />
    <img alt="R" height="40" width="112" src="https://img.shields.io/badge/r%20-%23FFFFFF.svg?&style=for-the-badge&logo=r&logoColor=blue" />
    <img alt="Tableau" height="40" width="112" src="https://img.shields.io/badge/tableau%20-%23FFFFFF.svg?&style=for-the-badge&logo=tableau&logoColor=blue" />
    <img alt="Excel" height="40" width="112" src="https://img.shields.io/badge/excel%20-%23FFFFFF.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" />
