@@ -17,8 +17,8 @@
    
 </p>
 <br />
-👀 I’m passionated to analyse the data & understands the science behind it </br>
-🌱 I’m currently learning <strong> Data Analysis </strong> </br>
+👀 - Passionated to analyse the data & understands the science behind it </br>
+🌱 - Currently learning <strong> Data Analysis </strong> </br>
 
 <br />
 
