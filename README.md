@@ -20,11 +20,10 @@
 🌱 I’m currently learning Data Analysis </br>
 
 
-### Connect with me
+### 📬 Connect with me:
 <p align="center">
 
-<a align="center" href="https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="dhirajkafle" height="40" width="40" />
-</a>
+   [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhiraj Kafle | LinkedIn" height="30" width="40" />][linkedin]
 
 </p>
 
