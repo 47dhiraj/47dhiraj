@@ -1,5 +1,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there,  I’m <b>Dhiraj Kafle,</b> - aka [Dhiraj][portfolio]
 
+<br />
+
+### 💻 Skills:
 
 <p>
    <img alt="Git" height="40" width="112" src="https://img.shields.io/badge/git%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
@@ -16,9 +19,14 @@
    
 </p>
 
+<br />
+<br />
+
 👀 I’m passionated to analyse the data & understands the science behind it </br>
 🌱 I’m currently learning Data Analysis </br>
 
+<br />
+<br />
 
 ### 📬 Connect with me:
 <p align="center">
