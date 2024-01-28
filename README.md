@@ -17,8 +17,8 @@
    
 </p>
 <br />
-👀 - Passionated to analyse the data & understands the science behind it </br>
-🌱 - Currently learning <strong> Data Analysis </strong> </br>
+👀 - Passionated to analyse the data, extract meaningful insights & develop models. </br>
+<!-- 🌱 - Currently learning <strong>  </strong> </br> -->
 
 <br />
 
