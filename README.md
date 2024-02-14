@@ -6,8 +6,8 @@
 ### 💻 Skills:
 
 <p>
-   <img alt="Git" height="40" width="112" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
-   <img alt="SQL" height="40" width="112" src="https://img.shields.io/badge/SQL%20-%23FFFFFF.svg?logo=mysql&logoColor=0074a3&style=for-the-badge" />
+   <img alt="Git" height="45" width="112" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
+   <img alt="SQL" height="50" width="112" src="https://img.shields.io/badge/SQL%20-%23FFFFFF.svg?logo=mysql&logoColor=0074a3&style=for-the-badge" />
    <img alt="Python" height="40" width="112" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=blue" />
    <img alt="Pandas" height="40" width="112" src="https://img.shields.io/badge/pandas-%23FFFFFF.svg?&style=for-the-badge&logo=pandas&logoColor=darkblue" />
 <!--    <img alt="Scikit" height="40" width="118" src="https://img.shields.io/badge/scikit--learn%20-%23FFFFFF.svg?&style=for-the-badge&logo=scikit-learn&logoColor=orange"     /> -->
