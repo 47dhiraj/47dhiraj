@@ -16,7 +16,7 @@
    <img alt="Excel" height="60" width="120" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" />
    <img alt="Django" height="60" width="120" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=django&logoColor=darkgreen" />
 <!--    <img alt="FastAPI" height="40" width="112" src="https://img.shields.io/badge/fast api%20-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" /> -->
-   <img alt="Docker" height="60" width="132" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
+   <img alt="Docker" height="60" width="132" src="https://img.shields.io/badge/Docker%20-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
    <img alt="Snowflake" height="60" width="132" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=snowflake" />
    <img alt="DBT" height="60" width="132" src="https://img.shields.io/badge/dbt%20-%23FFFFFF.svg?&style=for-the-badge&logo=dbt&logoColor=orange" />
    <img alt="Airflow" height="40" width="60" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" /><span style="vertical-align: super;">Airflow</span>
