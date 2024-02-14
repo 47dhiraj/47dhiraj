@@ -10,13 +10,15 @@
    <img alt="MySQL" height="40" width="112" src="https://img.shields.io/badge/SQL%20-%23FFFFFF.svg?logo=mysql&logoColor=0074a3&style=for-the-badge" />
    <img alt="Python" height="40" width="112" src="https://img.shields.io/badge/python-%23FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=blue" />
    <img alt="Pandas" height="40" width="112" src="https://img.shields.io/badge/pandas-%23FFFFFF.svg?&style=for-the-badge&logo=pandas&logoColor=darkblue" />
-   <img alt="Scikit" height="40" width="118" src="https://img.shields.io/badge/scikit--learn%20-%23FFFFFF.svg?&style=for-the-badge&logo=scikit-learn&logoColor=orange"     />
-   <img alt="R" height="40" width="112" src="https://img.shields.io/badge/r%20-%23FFFFFF.svg?&style=for-the-badge&logo=r&logoColor=blue" />
+<!--    <img alt="Scikit" height="40" width="118" src="https://img.shields.io/badge/scikit--learn%20-%23FFFFFF.svg?&style=for-the-badge&logo=scikit-learn&logoColor=orange"     /> -->
+<!--    <img alt="R" height="40" width="112" src="https://img.shields.io/badge/r%20-%23FFFFFF.svg?&style=for-the-badge&logo=r&logoColor=blue" /> -->
    <img alt="Tableau" height="40" width="112" src="https://img.shields.io/badge/tableau%20-%23FFFFFF.svg?&style=for-the-badge&logo=tableau&logoColor=blue" />
    <img alt="Excel" height="40" width="112" src="https://img.shields.io/badge/excel%20-%23FFFFFF.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" />
    <img alt="Django" height="40" width="112" src="https://img.shields.io/badge/django%20-%23FFFFFF.svg?&style=for-the-badge&logo=django&logoColor=darkgreen" />
-   <img alt="FastAPI" height="40" width="112" src="https://img.shields.io/badge/fast api%20-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" />
+<!--    <img alt="FastAPI" height="40" width="112" src="https://img.shields.io/badge/fast api%20-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" /> -->
    <img alt="Docker" height="40" width="112" src="https://img.shields.io/badge/docker%20-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
+   <img alt="DBT" height="40" width="112" src="https://img.shields.io/badge/dbt%20-%23FFFFFF.svg?&style=for-the-badge&logo=dbt&logoColor=orange" />
+   <img alt="Snowflake" height="40" width="112" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=snowflake" />
    
 </p>
 <br />
