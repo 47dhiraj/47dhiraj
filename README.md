@@ -19,7 +19,7 @@
    <img alt="Docker" height="60" width="132" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
    <img alt="Snowflake" height="60" width="132" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=snowflake" />
    <img alt="DBT" height="60" width="132" src="https://img.shields.io/badge/dbt%20-%23FFFFFF.svg?&style=for-the-badge&logo=dbt&logoColor=orange" />
-   <img alt="Airflow" height="60" width="132" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=airflowhttps://cwiki.apache.org/confluence/download/attachments/145723561/airflow_dark_bg.png?api=v2" />
+   <img alt="Airflow" height="10" width="22" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" />
    
 </p>
 <br />
