@@ -18,7 +18,7 @@
    <img alt="Tableau" height="60" width="132" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=tableau&logoColor=blue" />
    <img alt="Excel" height="60" width="120" src="https://img.shields.io/badge/-%23FFFFFF.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" />
    <img alt="Snowflake" height="60" width="132" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=snowflake" />
-   <img alt="DBT" height="60" width="132" src="https://img.shields.io/badge/dbt%20-%23FFFFFF.svg?&style=for-the-badge&logo=dbt&logoColor=orange" />
+   <img alt="DBT" height="60" width="142" src="https://img.shields.io/badge/dbt%20-%23FFFFFF.svg?&style=for-the-badge&logo=dbt&logoColor=orange" />
    <img alt="Airflow" height="40" width="60" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" /><span style="vertical-align: super;">Airflow</span>
    <br>
    
