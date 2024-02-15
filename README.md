@@ -19,7 +19,7 @@
    <img alt="Excel" height="60" width="120" src="https://img.shields.io/badge/-%23FFFFFF.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" />
    <img alt="Snowflake" height="60" width="122" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=snowflake" />
    <img alt="DBT" height="60" width="122" src="https://img.shields.io/badge/dbt%20-%23FFFFFF.svg?&style=for-the-badge&logo=dbt&logoColor=orange" />
-   <img alt="Airflow" height="40" width="100" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" /><span style="vertical-align: super;">Airflow</span>
+   <img alt="Airflow" height="42" width="50" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" /><span style="vertical-align: super;">Airflow</span>
    <br>
    
 </p>
