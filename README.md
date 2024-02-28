@@ -12,7 +12,7 @@
    <img alt="Pandas" height="54" width="132" src="https://img.shields.io/badge/Pandas%20-%23FFFFFF.svg?&style=for-the-badge&logo=pandas&logoColor=darkblue" />
 <!--    <img alt="Scikit" height="54" width="118" src="https://img.shields.io/badge/scikit--learn%20-%23FFFFFF.svg?&style=for-the-badge&logo=scikit-learn&logoColor=orange"     /> -->
 <!--    <img alt="R" height="54" width="112" src="https://img.shields.io/badge/r%20-%23FFFFFF.svg?&style=for-the-badge&logo=r&logoColor=blue" /> -->
-   <img alt="Django" height="54" width="80" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=django&logoColor=lightgreen" />
+   <img alt="Django" height="54" width="80" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=django&logoColor=limegreen" />
    <img alt="FastAPI" height="54" width="80" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" />
    <img alt="Docker" height="54" width="142" src="https://img.shields.io/badge/Docker%20-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
    <img alt="PowerBI" height="54" width="132" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=powerbi&logoColor=darkyellow" />
