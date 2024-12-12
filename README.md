@@ -15,8 +15,8 @@
    <img alt="Django" height="54" width="80" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=django&logoColor=limegreen" />
    <img alt="FastAPI" height="54" width="80" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" />
    <img alt="Docker" height="54" width="142" src="https://img.shields.io/badge/Docker%20-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
-   <img alt="PowerBI" height="42" width="80" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" /><span style="vertical-align: super;">Power BI</span>
-   <img alt="Excel" height="54" width="120" src="https://img.shields.io/badge/-%23FFFFFF.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" />
+   <img alt="PowerBI" height="42" width="60" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" /><span style="vertical-align: super;">Power BI</span>
+<!--    <img alt="Excel" height="54" width="120" src="https://img.shields.io/badge/-%23FFFFFF.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" /> -->
    <img alt="Snowflake" height="54" width="122" src="https://img.shields.io/badge/Snowflake%20-%23FFFFFF.svg?&style=for-the-badge&logo=snowflake" />
    <img alt="DBT" height="54" width="122" src="https://img.shields.io/badge/dbt%20-%23FFFFFF.svg?&style=for-the-badge&logo=dbt&logoColor=orange" />
    <img alt="Airflow" height="43" width="50" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" /><span style="vertical-align: super;">Airflow</span>
