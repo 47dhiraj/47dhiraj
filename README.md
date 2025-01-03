@@ -14,6 +14,7 @@
    <img alt="Django" height="54" width="80" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=django&logoColor=limegreen" />
    <img alt="FastAPI" height="54" width="80" src="https://img.shields.io/badge/%20-%23FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=009485" />
    <img alt="Docker" height="54" width="142" src="https://img.shields.io/badge/Docker%20-%23FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=0db7ed" />
+   <img alt="Matplotlib" height="42" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /><span style="vertical-align: super;"><b>Matplotlib</b></span>
 <img alt="PowerBI" height="42" width="60" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" /><span style="vertical-align: super;"><b>Power BI</b></span>
 <!--    <img alt="Excel" height="54" width="120" src="https://img.shields.io/badge/-%23FFFFFF.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen" /> -->
    <img alt="Snowflake" height="60" width="140" src="https://img.shields.io/badge/Snowflake%20-%23FFFFFF.svg?&style=for-the-badge&logo=snowflake" />
