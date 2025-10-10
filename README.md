@@ -1,13 +1,13 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=47dhiraj&label=Views%20&color=ff6666&style=flat"/></p> -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b> DHIRAJ KAFLE </b> - aka Dhiraj. [Personal Site][portfolio]
 ------------------------------------------------------------------------------------------------------------
-
+</br>
 ### ✨ About me:
 <hr>
 
-📝 Latest blogs I have posted: [View Blogs][blogs]
+📝 Latest blogs I have posted: [Read Blogs][blogs]
 
-👨‍💻 Latest projects I have done: [View Repo][github-repo]
+👨‍💻 Latest projects I have done: [View Repositories][github-repo]
 
 📫 Reach me via email: [Send message][email]
 
@@ -54,6 +54,6 @@
 [blogs]: https://www.dhirajk.com.np/blogs
 [github]: https://github.com/47dhiraj/
 [github-repo]: https://github.com/47dhiraj?tab=repositories
-[email]: dhirajkafle553@gmail.com
+[email]: mailto:dhirajkafle553@gmail.com
 [linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 [youtube]: #
