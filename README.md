@@ -1,16 +1,16 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=47dhiraj&label=Views%20&color=ff6666&style=flat"/></p> -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b>Dhiraj Kafle,</b> - aka [Dhiraj][website]
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b> DHIRAJ KAFLE </b> - aka Dhiraj. [Personal Site][portfolio]
 
-📝 I regularly write articles on: [dhirajk.com.np/blogs/][blogs]
+📝 Latest blogs I have posted: [View blogs][blogs]
 
-👨‍💻 All of my latest projects are available at [GitHub repositories][repo]
+👨‍💻 All of my latest projects are available at: [View repositories][github-repo]
 
-📫 How to reach me [Email][email]
+📫 Reach me via email: [Send message][email]
 
 👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
 
-🌱 - Currently learning <strong>  </strong>
+🌱 - Currently learning: <strong> Robust Security Mechanism </strong>
 
 </br>
 ### 💻 Skills:
@@ -46,10 +46,10 @@
    
 </p>
 
-[website]: https://www.dhirajk.com.np/
+[portfolio]: https://www.dhirajk.com.np/
 [blogs]: https://www.dhirajk.com.np/blogs
 [github]: https://github.com/47dhiraj/
-[repo]: https://github.com/47dhiraj?tab=repositories
+[github-repo]: https://github.com/47dhiraj?tab=repositories
 [email]: dhirajkafle553@gmail.com
 [linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 [youtube]: #
