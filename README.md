@@ -1,13 +1,7 @@
-<table width="100%">
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there, I’m <b>DHIRAJ KAFLE</b> - aka Dhiraj 👋
-    </td>
-    <td align="right">
-      <a href="https://dhirajk.com.np">🌐 Developer Portfolio</a>
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there, I’m <b>DHIRAJ KAFLE</b> - aka Dhiraj 👋
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dhirajk.com.np">🌐 Developer Portfolio</a>
+
 
 
 ### ✨ About me:
