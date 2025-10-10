@@ -4,11 +4,12 @@
     <td>
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there, I’m <b>DHIRAJ KAFLE</b> - aka Dhiraj 👋
     </td>
-    <td align="right">
+    <td align="right" style="white-space: nowrap;">
       <a href="https://dhirajk.com.np">🌐 Developer Portfolio</a>
     </td>
   </tr>
 </table>
+
 
 ------------------------------------------------------------------------------------------------------------
 
