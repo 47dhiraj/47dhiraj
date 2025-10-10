@@ -6,7 +6,7 @@
 
 👨‍💻 All of my latest projects are available at [GitHub repositories][repo]
 
-📫 How to reach me [dhirajkafle553@gmail.com]
+📫 How to reach me [Email][email]
 
 👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
 
@@ -47,9 +47,10 @@
 </p>
 
 [website]: https://www.dhirajk.com.np/
-[blogs]: https://www.dhirajk.com.np/blogs/
+[blogs]: https://www.dhirajk.com.np/blogs
 [github]: https://github.com/47dhiraj/
 [repo]: https://github.com/47dhiraj?tab=repositories
+[email]: dhirajkafle553@gmail.com
 [linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 [youtube]: #
 
