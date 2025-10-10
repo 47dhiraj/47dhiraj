@@ -1,12 +1,12 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=47dhiraj&label=Views%20&color=ff6666&style=flat"/></p> -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b>Dhiraj Kafle,</b> - aka [Dhiraj][portfolio]
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b>Dhiraj Kafle,</b> - aka [Dhiraj][website]
 
 📝 I regularly write articles on: [dhirajk.com.np/blogs/][blogs]
 
 👨‍💻 All of my latest projects are available at [GitHub repositories][repo]
 
-📫 How to reach me [dhirajkafle553@gmail.com][mailto::email]
+📫 How to reach me [dhirajkafle553@gmail.com]
 
 👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
 
@@ -46,11 +46,10 @@
    
 </p>
 
-[portfolio]: https://www.dhirajk.com.np/
+[website]: https://www.dhirajk.com.np/
 [blogs]: https://www.dhirajk.com.np/blogs/
 [github]: https://github.com/47dhiraj/
 [repo]: https://github.com/47dhiraj?tab=repositories
-[email]: dhirajkafle553@gmail.com
 [linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 [youtube]: #
 
