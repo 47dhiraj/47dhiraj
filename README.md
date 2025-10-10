@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b>Dhiraj Kafle,</b> - aka [Dhiraj][portfolio]
 
-📝 I regularly write articles on: [portfolio]
+📝 I regularly write articles on: [dhirajk.com.np/blogs/][blogs]
 
-👨‍💻 All of my latest projects are available at https://github.com/47dhiraj?tab=repositories/
+👨‍💻 All of my latest projects are available at [GitHub repositories][repo]
 
-📫 How to reach me dhirajkafle553@gmail.com
+📫 How to reach me [dhirajkafle553@gmail.com][mailto::email]
 
 👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
 
@@ -46,9 +46,11 @@
    
 </p>
 
-[portfolio]: https://www.dhirajk.com.np
-[github]: https://github.com/47dhiraj
+[portfolio]: https://www.dhirajk.com.np/
+[blogs]: https://www.dhirajk.com.np/blogs/
+[github]: https://github.com/47dhiraj/
 [repo]: https://github.com/47dhiraj?tab=repositories
+[email]: dhirajkafle553@gmail.com
 [linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 [youtube]: #
 
