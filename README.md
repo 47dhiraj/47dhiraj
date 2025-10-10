@@ -17,7 +17,8 @@
 </br>
 
 ### 💻 Skills:
--------------------------------------------------------------------------------------------------------------
+<hr>
+<br>
 <p>
    <img alt="Git" height="54" width="112" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
    <img alt="SQL" height="54" width="112" src="https://img.shields.io/badge/SQL%20-%23FFFFFF.svg?logo=mysql&logoColor=0074a3&style=for-the-badge" />
@@ -38,8 +39,10 @@
    
 </p>
 <br />
+
 ### 📬 Let's get connected:
--------------------------------------------------------------------------------------------------------------
+<hr>
+<br>
 
 <p align="center">
    
