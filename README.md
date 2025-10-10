@@ -1,9 +1,7 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=47dhiraj&label=Views%20&color=ff6666&style=flat"/></p> -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b> DHIRAJ KAFLE </b> - aka Dhiraj. [Personal Site][portfolio]
 -------------------------------------------------------------------------------------------------------------
-
 </br >
-
 ✨ About Me ✨
 -------------------------------------------------------------------------------------------------------------
 📝 Latest blogs I have posted: [View Blogs][blogs]
@@ -15,9 +13,7 @@
 🌱 - Currently learning: <strong> Robust Security Mechanism </strong>
 
 👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
-
 </br>
-
 ### 💻 Skills:
 -------------------------------------------------------------------------------------------------------------
 <p>
@@ -39,15 +35,16 @@
    <br>
    
 </p>
-
 <br />
-
 ### 📬 Let's get connected:
 -------------------------------------------------------------------------------------------------------------
+
 <p align="center">
+   
    [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhiraj Kafle | LinkedIn" height="30" width="40" />][linkedin]
 
    [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dhiraj Kafle | Youtube" height="30" width="40" />][youtube]
+   
 </p>
 
 [portfolio]: https://www.dhirajk.com.np/
