@@ -5,9 +5,9 @@
 ### ✨ About me:
 <hr>
 
-📝 Latest blogs I have posted: [Read Blogs][blogs]
+📝 Latest blogs I have posted: [Read blogs][blogs]
 
-👨‍💻 Latest projects I have done: [View Repositories][github-repo]
+👨‍💻 Latest projects I have done: [View repos][github-repo]
 
 📫 Reach me via email: [Send message][email]
 
@@ -49,10 +49,10 @@
    
 </p>
 
-[portfolio]: https://www.dhirajk.com.np/
-[blogs]: https://www.dhirajk.com.np/blogs
+[portfolio]: https://dhirajk.com.np/
+[blogs]: https://dhirajk.com.np/blogs
 [github]: https://github.com/47dhiraj/
 [github-repo]: https://github.com/47dhiraj?tab=repositories
 [email]: mailto:dhirajkafle553@gmail.com
-[linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
+[linkedin]: https:linkedin.com/in/dhiraj-kafle-4a19781a3/
 [youtube]: #
