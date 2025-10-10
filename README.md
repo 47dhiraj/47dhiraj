@@ -2,6 +2,17 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b>Dhiraj Kafle,</b> - aka [Dhiraj][portfolio]
 
+📝 I regularly write articles on: [portfolio]
+
+👨‍💻 All of my latest projects are available at https://github.com/47dhiraj?tab=repositories/
+
+📫 How to reach me dhirajkafle553@gmail.com
+
+👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
+
+🌱 - Currently learning <strong>  </strong>
+
+</br>
 ### 💻 Skills:
 
 <p>
@@ -23,9 +34,6 @@
    <br>
    
 </p>
-<br />
-👀 - Passionated to analyse the data, extract meaningful insights & develop models. </br>
-<!-- 🌱 - Currently learning <strong>  </strong> </br> -->
 
 <br />
 
@@ -35,11 +43,12 @@
    [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhiraj Kafle | LinkedIn" height="30" width="40" />][linkedin]
 
    [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dhiraj Kafle | Youtube" height="30" width="40" />][youtube]
+   
 </p>
 
-</br>
-
 [portfolio]: https://www.dhirajk.com.np
+[github]: https://github.com/47dhiraj
+[repo]: https://github.com/47dhiraj?tab=repositories
 [linkedin]: https://www.linkedin.com/in/dhiraj-kafle-4a19781a3/
 [youtube]: #
 
