@@ -1,10 +1,14 @@
-<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=47dhiraj&label=Views%20&color=ff6666&style=flat"/></p> -->
-<p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there, I’m <b>DHIRAJ KAFLE</b> - aka Dhiraj 👋
-  <span style="float:right;">
-    <a href="https://dhirajk.com.np">🌐 Developer Portfolio</a>
-  </span>
-</p>
+<table width="100%">
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there, I’m <b>DHIRAJ KAFLE</b> - aka Dhiraj 👋
+    </td>
+    <td align="right">
+      <a href="https://dhirajk.com.np">🌐 Developer Portfolio</a>
+    </td>
+  </tr>
+</table>
+
 
 
 ------------------------------------------------------------------------------------------------------------
