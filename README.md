@@ -1,9 +1,9 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=47dhiraj&label=Views%20&color=ff6666&style=flat"/></p> -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there,  I’m <b> DHIRAJ KAFLE </b> - aka Dhiraj. [Personal Site][portfolio]
-
+------------------------------------------------------------------------------------------------------------------------------------------------
+</br >
 ✨ About Me ✨
-------------------------------------------------
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 📝 Latest blogs I have posted: [View Blogs][blogs]
 
 👨‍💻 Latest projects I have done: [View Repo][github-repo]
@@ -13,10 +13,11 @@
 🌱 - Currently learning: <strong> Robust Security Mechanism </strong>
 
 👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
+
 </br>
 
 ### 💻 Skills:
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 <p>
    <img alt="Git" height="54" width="112" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
    <img alt="SQL" height="54" width="112" src="https://img.shields.io/badge/SQL%20-%23FFFFFF.svg?logo=mysql&logoColor=0074a3&style=for-the-badge" />
