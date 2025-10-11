@@ -1,10 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Hi there, I’m <b>DHIRAJ KAFLE</b> - aka Dhiraj &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [🕰 Developer Portfolio][portfolio]
 
 
-
-
 ### ✨ About me:
-<hr>
 
 📝 Latest blogs I have posted: [Read blogs][blogs]
 
@@ -18,7 +15,7 @@
 </br>
 
 ### 💻 Skills:
-<hr>
+
 <p>
    <img alt="Git" height="54" width="112" src="https://img.shields.io/badge/-%23FFFFFF.svg?&style=for-the-badge&logo=git&logoColor=f03c2e" />
    <img alt="SQL" height="54" width="112" src="https://img.shields.io/badge/SQL%20-%23FFFFFF.svg?logo=mysql&logoColor=0074a3&style=for-the-badge" />
@@ -41,7 +38,6 @@
 <br />
 
 ### 📬 Let's get connected:
-<hr>
 <p align="center">
    
    [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhiraj Kafle | LinkedIn" height="30" width="40" />][linkedin]
