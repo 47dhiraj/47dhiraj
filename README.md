@@ -10,7 +10,7 @@
 
 📫 Reach me via email: [Send message][email]
 
-🌱 - Currently learning: <strong> uv python pkg. manager, Python Typing, SQLAlchemy & SQLModek, Pydantic, Alembic, FastAPI & more </strong>
+🌱 - At Present: <strong> Actively expanding my skills in modern Python backend architecture, emphasizing clean data models, strict validation, scalable APIs, and optimized dependency workflows. </strong>
 
 👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
 </br>
