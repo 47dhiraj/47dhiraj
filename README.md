@@ -10,7 +10,7 @@
 
 📫 Reach me via email: [Send message][email]
 
-🌱 - Currently learning: <strong> Robust Security Mechanism </strong>
+🌱 - Currently learning: <strong> uv python pkg. manager, Python Typing, SQLAlchemy & SQLModek, Pydantic, Alembic, FastAPI & more </strong>
 
 👀 - Passionated to analyse the data, extract meaningful insights, develop AI models & seamlessly integrate robust security architectures.
 </br>
