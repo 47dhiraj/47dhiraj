@@ -45,7 +45,7 @@
 
 
 <!-- Tech Stack Icons -->
-<div style="display:flex; flex-wrap:wrap; gap:50px; align-items:center;">
+<div style="display:flex; flex-wrap:wrap; gap:90px; align-items:center;">
 
  
   <!-- 
