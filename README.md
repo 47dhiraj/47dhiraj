@@ -121,7 +121,7 @@
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg"
-         alt="git" height="50" style="margin:0 20px;" />
+         alt="git" height="38" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
