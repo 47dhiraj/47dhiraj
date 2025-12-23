@@ -120,7 +120,7 @@
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg"
          alt="git" width="40" height="40" style="margin:0 20px;" />
   </a>
 
@@ -157,6 +157,11 @@
   <a href="https://requestly.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/requestly.svg"
          alt="requestly" width="40" height="40" style="margin:0 20px;" />
+  </a>
+
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg"
+         alt="slack" width="40" height="40" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
