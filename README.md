@@ -104,11 +104,6 @@
          alt="fastapi" height="28" style="margin:0 20px;" />
   </a>
 
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://hexmos.com/freedevtools/svg_icons/djangorest/djangorest-original.svg"
-         alt="django-rest-framework" width="60" height="60" style="margin:0 20px;" />
-  </a>
-
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg"
          alt="django" width="40" height="40" style="margin:0 20px;" />
