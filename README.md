@@ -76,7 +76,7 @@
 
   <a href="https://docs.astral.sh/uv/" target="_blank" rel="noreferrer">
     <img src="https://docs.astral.sh/uv/assets/logo-letter.svg"
-         alt="uv" width="40" height="40" style="margin:0 20px;" />
+         alt="uv" width="34" height="34" style="margin:0 20px;" />
   </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
