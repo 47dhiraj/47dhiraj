@@ -161,7 +161,7 @@
 
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg"
-         alt="slack" height="38" style="margin:0 20px;" />
+         alt="slack" height="35" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
