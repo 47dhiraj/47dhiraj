@@ -74,6 +74,11 @@
          alt="python" width="40" height="40" style="margin:0 20px;" />
   </a>
 
+  <a href="https://docs.astral.sh/uv/" target="_blank" rel="noreferrer">
+    <img src="https://docs.astral.sh/uv/assets/logo-letter.svg"
+         alt="uv" width="40" height="40" style="margin:0 20px;" />
+  </a>
+
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
          alt="pandas" width="40" height="40" style="margin:0 20px;" />
