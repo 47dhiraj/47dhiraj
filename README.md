@@ -45,7 +45,7 @@
 
 
 <!-- Tech Stack Icons -->
-<div style="display:flex; flex-wrap:wrap; gap:30px; align-items:center;">
+<div style="display:flex; flex-wrap:wrap; gap:50px; align-items:center;">
 
  
   <!-- 
@@ -67,7 +67,7 @@
   </a>
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" height="27" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" height="28" />
   </a>
 
 
