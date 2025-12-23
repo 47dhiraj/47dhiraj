@@ -141,7 +141,7 @@
 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg"
-         alt="selenium" height="40" style="margin:0 20px;" />
+         alt="selenium" height="34" style="margin:0 20px;" />
   </a>
 
   <a href="https://requestly.com/" target="_blank" rel="noreferrer">
