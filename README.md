@@ -101,17 +101,12 @@
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg"
-         alt="fastapi" height="28" style="margin:0 20px;" />
+         alt="fastapi" height="30" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg"
          alt="django" width="40" height="40" style="margin:0 20px;" />
-  </a>
-
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-         alt="selenium" width="40" height="40" style="margin:0 20px;" />
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -142,6 +137,11 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
          alt="mssql" width="40" height="40" style="margin:0 20px;" />
+  </a>
+
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg"
+         alt="selenium" width="40" height="40" style="margin:0 20px;" />
   </a>
 
   <a href="https://requestly.com/" target="_blank" rel="noreferrer">
