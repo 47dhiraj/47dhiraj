@@ -99,6 +99,11 @@
          alt="pydantic" width="40" height="40" style="margin:0 20px;" />
   </a>
 
+  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg"
+         alt="sqla" height="35" style="margin:0 20px;" />
+  </a>
+
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg"
          alt="fastapi" height="30" style="margin:0 20px;" />
