@@ -67,7 +67,7 @@
   </a>
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" width="40" height="80"/>
   </a>
 
 
