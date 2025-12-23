@@ -106,7 +106,7 @@
 
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.brandfetch.io/idm9RBBGnw/w/600/h/265/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1758890822662"
-         alt="django-rest-framework" width="40" height="40" style="margin:0 20px;" />
+         alt="django-rest-framework" width="60" height="60" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
