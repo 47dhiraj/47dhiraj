@@ -91,17 +91,22 @@
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-         alt="scikit_learn" width="40" height="40" style="margin:0 20px;" />
-  </a>
-
-  <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/110818415?s=36&v=4"
-         alt="pydantic" width="40" height="40" style="margin:0 20px;" />
+         alt="scikit_learn" width="50" height="50" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg"
          alt="sqla" height="35" style="margin:0 20px;" />
+  </a>
+
+  <a href="https://sqlmodel.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg"
+         alt="sqlmodel" height="38" style="margin:0 20px;" />
+  </a>
+
+  <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/110818415?s=36&v=4"
+         alt="pydantic" width="40" height="40" style="margin:0 20px;" />
   </a>
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
