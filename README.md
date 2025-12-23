@@ -151,17 +151,17 @@
 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg"
-         alt="selenium" height="30" style="margin:0 20px;" />
+         alt="selenium" height="34" style="margin:0 20px;" />
   </a>
 
   <a href="https://requestly.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/requestly.svg"
-         alt="requestly" width="40" height="40" style="margin:0 20px;" />
+         alt="requestly" width="36" height="36" style="margin:0 20px;" />
   </a>
 
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg"
-         alt="slack" width="40" height="40" style="margin:0 20px;" />
+         alt="slack" height="38" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
