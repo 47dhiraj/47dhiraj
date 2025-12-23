@@ -64,6 +64,12 @@
          alt="css3" width="40" height="40" style="margin:0 20px;" />
   </a>
 
+  <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/110818415?s=36&v=4"
+         alt="pydantic" width="40" height="40" style="margin:0 20px;" />
+  </a>
+
+
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg"
          alt="fastapi" height="28" style="margin:0 20px;" />
