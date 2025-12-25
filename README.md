@@ -116,7 +116,7 @@
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg"
-         alt="fastapi" height="30" style="margin:0 20px;" />
+         alt="fastapi" height="27" style="margin:0 20px;" />
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
