@@ -77,7 +77,7 @@
   </a>
 
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="pydantic" height="32" style="margin:0 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="pydantic" height="36" style="margin:0 20px;" />
   </a>
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
