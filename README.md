@@ -116,8 +116,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" height="34" style="margin:0 20px;" />
   </a>
 
-  <a href="https://learning.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" alt="requestly" width="36" height="36" style="margin:0 20px;" />
+  <a href="https://postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://us1.discourse-cdn.com/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" alt="postman" width="36" height="36" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
