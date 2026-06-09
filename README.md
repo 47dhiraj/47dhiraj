@@ -117,7 +117,7 @@
   </a>
 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" alt="postman"  width="62" height="48" style="margin:0 20px;" />
+    <img src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" alt="postman"  width="65" height="44" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
