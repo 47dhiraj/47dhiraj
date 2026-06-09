@@ -108,16 +108,16 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin:0 20px;" />
   </a>
 
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://en.wikipedia.org/wiki/Playwright_(software)#/media/File:Playwright_Logo.svg" alt="playwright" height="34" style="margin:0 20px;" />
+  </a>
+  
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="34" style="margin:0 20px;" />
   </a>
 
   <a href="https://requestly.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/requestly.svg" alt="requestly" width="36" height="36" style="margin:0 20px;" />
-  </a>
-
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="slack" height="35" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
