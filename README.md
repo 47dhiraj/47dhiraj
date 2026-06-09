@@ -109,7 +109,7 @@
   </a>
 
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/Playwright_(software)#/media/File:Playwright_Logo.svg" alt="playwright" height="34" style="margin:0 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Playwright_Logo.svg/1920px-Playwright_Logo.svg.png" alt="playwright" height="34" style="margin:0 20px;" />
   </a>
   
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
