@@ -117,7 +117,7 @@
   </a>
 
   <a href="https://postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://us1.discourse-cdn.com/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" alt="postman" width="36" height="36" style="margin:0 20px;" />
+    <img src="https://us1.discourse-cdn.com/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" alt="postman" width="50" height="36" style="margin:0 20px;" />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
