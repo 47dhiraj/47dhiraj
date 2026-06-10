@@ -49,7 +49,7 @@
   </a>
 
   <a href="https://docs.pola.rs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/banner/polars_github_banner.svg" alt="polars" width="55" height="48" style="margin:0 20px;" /> 
+    <img src="https://cdn.brandfetch.io/iduJnU-fSn/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="polars" width="40" style="margin:0 20px;" /> 
   </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
