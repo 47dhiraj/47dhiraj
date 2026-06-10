@@ -48,6 +48,10 @@
     <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="uv" width="34" height="34" style="margin:0 20px;" />
   </a>
 
+  <a href="https://docs.pola.rs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/banner/polars_github_banner.svg" alt="polars" width="40" height="40" style="margin:0 20px;" />
+  </a>
+
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin:0 20px;" />
   </a>
