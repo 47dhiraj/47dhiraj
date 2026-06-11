@@ -79,11 +79,7 @@
   <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/110818415?s=36&v=4" alt="pydantic" width="45" height="45" style="margin:0 20px;" />
   </a>
-
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://dbeaver.com/wp-content/themes/utouch/img/logo/main_logo_NY.svg" alt="pydantic" height="42" style="margin:0 20px;" />
-  </a>
-
+  
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" height="27" style="margin:0 20px;" />
   </a>
@@ -112,8 +108,12 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin:0 20px;" />
   </a>
 
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+    <img src="https://dbeaver.com/wp-content/themes/utouch/img/logo/main_logo_NY.svg" alt="pydantic" height="42" style="margin:0 20px;" />
+  </a>
+
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Playwright_Logo.svg/330px-Playwright_Logo.svg.png" alt="playwright" height="36" style="margin:0 14px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Playwright_Logo.svg/330px-Playwright_Logo.svg.png" alt="playwright" height="33" style="margin:0 20px;" />
   </a>
   
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
