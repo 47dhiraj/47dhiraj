@@ -125,7 +125,7 @@
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="38" style="margin:0 20px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="43" height="38" style="margin:0 20px;" />
   </a>
 
 </div>
